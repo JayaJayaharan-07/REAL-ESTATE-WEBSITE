@@ -22,5 +22,6 @@ Technologies Used
 The main objective of this project is to build a modern real estate platform that enhances user experience and provides structured property information in a professional manner.
 
 OUTPUT:
-<img width="1920" height="5953" alt="screencapture-file-C-Users-User-OneDrive-Documents-Desktop-realestate-project-index-html-2026-02-25-10_37_16" src="https://github.com/user-attachments/assets/ce2904a1-9672-4b87-b653-7c5c006a9e69" />
+
+<img width="1920" height="5953" alt="screencapture-file-C-Users-User-OneDrive-Documents-Desktop-realestate-project-index-html-2026-02-25-10_40_09" src="https://github.com/user-attachments/assets/2e66c6f7-a400-466e-bc82-512b66922ba8" />
 
