@@ -1,3 +1,5 @@
+# REAL-ESTATE-WEBSITE-
+
 The Real Estate Website is a responsive and user-friendly web application designed to showcase property listings for buying, selling, and renting. The platform provides an intuitive interface where users can explore property details, view images, and connect with agents seamlessly.
 
 This project demonstrates modern frontend development skills using structured layouts, responsive design, and clean UI principles.
